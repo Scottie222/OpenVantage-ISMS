@@ -1,6 +1,6 @@
 # Open Vantage – ISO 27001:2022 ISMS Documentation Suite
 
-A Python-based ISMS documentation generator built for **Open Vantage (Pty) Ltd** — a South African software development and AI company preparing for **ISO 27001:2022 certification for the first time**.
+A Python-based ISMS documentation generator built for **Open Vantage (Pty) Ltd**, a South African software development and AI company preparing for **ISO 27001:2022 certification for the first time**.
 
 **Website:** https://openvantage.co.za | **Location:** Sandton, Johannesburg
 
@@ -8,7 +8,7 @@ A Python-based ISMS documentation generator built for **Open Vantage (Pty) Ltd**
 
 ## Why Open Vantage Needs ISO 27001
 
-Open Vantage provides full-cycle software development, AI services and augmented talent to enterprise clients including Howdens, Ctrack and Omnia. Two enterprise clients have included **ISO 27001:2022 certification as a contractual requirement** in upcoming renewals — triggering this ISMS project.
+Open Vantage provides full-cycle software development, AI services and augmented talent to enterprise clients including Howdens, Ctrack and Omnia. Two enterprise clients have included **ISO 27001:2022 certification as a contractual requirement** in upcoming renewals, triggering this ISMS project.
 
 Open Vantage operates across **three jurisdictions** simultaneously:
 - 🇿🇦 **South Africa** — subject to POPIA (Act 4 of 2013)
@@ -96,7 +96,7 @@ OpenVantage-ISMS/
 python run_isms.py
 ```
 
-No additional packages required — pure Python standard library only.
+No additional packages required, pure Python standard library only.
 
 ---
 
