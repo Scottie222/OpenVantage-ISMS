@@ -1,4 +1,4 @@
-# Open Vantage: ISO 27001:2022 ISMS Documentation Suite
+# Open Vantage – ISO 27001:2022 ISMS Documentation Suite
 
 A Python-based ISMS documentation generator and interactive audit simulator built for **Open Vantage (Pty) Ltd**, a South African software development and AI company preparing for ISO 27001:2022 certification.
 
@@ -17,6 +17,14 @@ Open Vantage operates across three jurisdictions simultaneously:
 | 🇿🇦 South Africa (HQ) | POPIA (Act 4 of 2013) |
 | 🇳🇱 Netherlands | GDPR (EU Regulation 2016/679) |
 | 🇬🇧 United Kingdom | UK GDPR and Data Protection Act 2018 |
+
+---
+
+## Live Simulator
+
+**[Open the ISMS Audit Simulator](dashboard/isms_simulator.html)**
+
+Toggle all 91 ISO 27001:2022 Annex A controls and watch the certification readiness score update in real time. Includes live charts, priority gap breakdown, change log, and CSV export.
 
 ---
 
