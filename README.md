@@ -22,7 +22,7 @@ Open Vantage operates across three jurisdictions simultaneously:
 
 ## Live Simulator
 
-**[Open the ISMS Audit Simulator](dashboard/isms_simulator.html)**
+**[Open the ISMS Audit Simulator]https://scottie222.github.io/OpenVantage-ISMS/dashboard/isms_simulator.html**
 
 Toggle all 91 ISO 27001:2022 Annex A controls and watch the certification readiness score update in real time. Includes live charts, priority gap breakdown, change log, and CSV export.
 
